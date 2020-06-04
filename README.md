@@ -14,7 +14,7 @@ We provide all of our visual assets in PNG, JPG and SVG format so you can choose
 
 # Our wordmark
 Our first preference is to use our full colour wordmark where possible (`rgb/NGHQ_WORDMARK_RGB.jpg`) <br>
-![Nightingale HQ wordmark](rgb/NGHQ_WORDMARK_RGB.jpg) <br>
+![Nightingale HQ wordmark](rgb/NGHQ_WORDMARK_COLOUR.jpg) <br>
 
 If you can't use that version, we also provide a white version for use on darker/similar colour backgrounds (`white/NGHQ_WORDMARK_WHITE.png`). Available in both PNG and SVG format.<br>
 
@@ -22,10 +22,10 @@ If you're using the wordmark in print, please use the PDF version from the `prin
 
 # Our icon
 If you need an icon instead of a full logo, our preferred icon is the full colour Nightingale HQ icon (`rgb/NGHQ_ICON_FULL_SQUARE_RGB.jpg`)<br>
-![Nightingale HQ icon](rgb/NGHQ_ICON_FULL_SQUARE_RGB.jpg)<br>
+![Nightingale HQ icon](rgb/NGHQ_ICON_FULL_SQUARE_COLOUR.jpg)<br>
 
 We also provide a solid green one (like the one seen in the wordmark) that can be used if the full colour one isn't appropriate for your use (`rgb/NGHQ_ICON_GREEN_SQUARE_RGB.jpg`).<br>
-![Nightingale HQ single colour icon](rgb/NGHQ_ICON_GREEN_SQUARE_RGB.jpg)<br>
+![Nightingale HQ single colour icon](rgb/NGHQ_ICON_GREEN_SQUARE_COLOUR.jpg)<br>
 
 For darker/similar colour backgrounds, we also provide a white version (`white/NGHQ_ICON_WHITE_SQUARE.png`). Available in both PNG and SVG format. <br>
 
